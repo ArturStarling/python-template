@@ -25,3 +25,30 @@ pip install --upgrade cython
 pip install wheel
 pip install -r dev-requirements.txt
 ```
+
+
+# Freezing
+
+## With Windows
+
+```bat
+pip freeze > win32-requirements.txt
+```
+## With Windows (dev environment)
+
+
+```bat
+pip freeze > dev-win32-requirements.txt
+```
+
+## With Ubuntu
+
+```bat
+pip freeze > ubuntu-requirements.txt
+```
+## With Ubuntu (dev environment)
+
+
+```bat
+pip freeze > dev-ubuntu-requirements.txt
+```
