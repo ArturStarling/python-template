@@ -1,4 +1,5 @@
 from os.path import join, dirname, realpath
+
 from pydantic import BaseSettings, SecretStr
 
 
