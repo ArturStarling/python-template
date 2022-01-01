@@ -1,0 +1,8 @@
+# Typing
+pydantic
+pydantic[dotenv]
+## Dependency
+python-dotenv
+# Jupyter
+jupyter
+ipykernel
